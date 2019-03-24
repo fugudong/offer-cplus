@@ -21,15 +21,18 @@
     <ClInclude Include="twoArraySearch.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="replaceSpace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="offer-cplus.cpp">
+    <ClCompile Include="twoArraySearch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="twoArraySearch.cpp">
+    <ClCompile Include="replaceSpace.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
