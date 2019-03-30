@@ -1,2 +1,3 @@
-﻿  replaceSpace.cpp
-  offer-cplus.vcxproj -> D:\CodeProject\c++\offer-cplus\Debug\offer-cplus.exe
+﻿  isBST.cpp
+d:\codeproject\c++\offer-cplus\offer-cplus\isbst.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+LINK : fatal error LNK1104: 无法打开文件“D:\CodeProject\c++\offer-cplus\Debug\offer-cplus.exe”

@@ -35,5 +35,14 @@
     <ClCompile Include="replaceSpace.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="parseBigLittle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maxCube.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="isBST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

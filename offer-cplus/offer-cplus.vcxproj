@@ -156,6 +156,15 @@
     <ClInclude Include="twoArraySearch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="isBST.cpp" />
+    <ClCompile Include="maxCube.cpp">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </DeploymentContent>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="parseBigLittle.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
