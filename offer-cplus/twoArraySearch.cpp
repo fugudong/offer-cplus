@@ -2,10 +2,13 @@
 #include "twoArraySearch.h"
 #include <iostream>
 #include <vector>
+#include <string>
 #include "twoArraySearch.h"
 using namespace std;
 
 TwoArraySearch::TwoArraySearch()
+
+
 {
 }
 
@@ -54,6 +57,10 @@ int main()
 	vector<vector<int>> testData = { {1},{2},{4},{6},{7} };
 	TwoArraySearch twoArraySearch = TwoArraySearch();
 
+	string a= "AA";
+	//a.at(0) = a.at(0) + 1;
+
+	//cout << a.at(0)<< endl;
 	//char* str = "Hello World!";
 	//replaceSpace(str, 40);
 }

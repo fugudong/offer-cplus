@@ -44,5 +44,26 @@
     <ClCompile Include="isBST.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="maxCount.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="duplictaeNumArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintListFromTailToHead.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ReConstructBinaryTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GetTreeNext.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JumpFloor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MinNumberInRotateArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
