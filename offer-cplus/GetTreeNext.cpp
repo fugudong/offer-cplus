@@ -15,7 +15,7 @@ struct TreeLinkNode {
 	struct TreeLinkNode *right;
 	struct TreeLinkNode *next;
 	TreeLinkNode(int x) :val(x), left(NULL), right(NULL), next(NULL) {
-
+		
 	}
 };
 

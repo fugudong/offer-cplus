@@ -42,6 +42,7 @@ int minNumberInRotateArray(vector<int> rotateArray) {
 	return rotateArray[indexMid];
 }
 int main() {
+
 	vector<int> number = { 3,4,5,0,1,2,3};
 	cout << minNumberInRotateArray(number) << endl;
 }
